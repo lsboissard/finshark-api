@@ -31,3 +31,4 @@ C:\Dev\projects\csharp\FinShark\FinShark.Api\obj\Debug\net8.0\refint\FinShark.Ap
 C:\Dev\projects\csharp\FinShark\FinShark.Api\obj\Debug\net8.0\FinShark.Api.pdb
 C:\Dev\projects\csharp\FinShark\FinShark.Api\obj\Debug\net8.0\FinShark.Api.genruntimeconfig.cache
 C:\Dev\projects\csharp\FinShark\FinShark.Api\obj\Debug\net8.0\ref\FinShark.Api.dll
+C:\Dev\projects\csharp\FinShark\FinShark.Api\obj\Debug\net8.0\FinShark.Api.sourcelink.json
